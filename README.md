@@ -1,0 +1,1 @@
+# cordova-plugin-mlkit-barcodescanner-standalone
